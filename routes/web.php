@@ -15,3 +15,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [TemplateController::class, 'index']);
+Route::get('/about-us', [TemplateController::class, 'about_us']);
+Route::get('/courses', [TemplateController::class, 'courses']);
+Route::get('/instructors', [TemplateController::class, 'instructors']);
+Route::get('/contact-us', [TemplateController::class, 'contact_us']);
+Route::get('/login', [TemplateController::class, 'login']);
