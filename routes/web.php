@@ -20,3 +20,4 @@ Route::get('/courses', [TemplateController::class, 'courses']);
 Route::get('/instructors', [TemplateController::class, 'instructors']);
 Route::get('/contact-us', [TemplateController::class, 'contact_us']);
 Route::get('/login', [TemplateController::class, 'login']);
+Route::get('/courses-details', [TemplateController::class, 'courses_details']);

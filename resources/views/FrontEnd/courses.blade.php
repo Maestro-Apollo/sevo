@@ -34,7 +34,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-1.jpg" alt="" />
                                     </a>
@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -65,7 +65,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-2.jpg" alt="" />
                                     </a>
@@ -77,7 +77,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -96,7 +96,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-3.jpg" alt="" />
                                     </a>
@@ -108,7 +108,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -127,7 +127,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-4.jpg" alt="" />
                                     </a>
@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -158,7 +158,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-1.jpg" alt="" />
                                     </a>
@@ -170,7 +170,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -189,7 +189,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-2.jpg" alt="" />
                                     </a>
@@ -201,7 +201,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -220,7 +220,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-3.jpg" alt="" />
                                     </a>
@@ -232,7 +232,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -251,7 +251,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-4.jpg" alt="" />
                                     </a>
@@ -263,7 +263,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">
@@ -282,7 +282,7 @@
                         <div class="col-md-4 mb-4 pb-1">
                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                 <div class="p-relative">
-                                    <a href="courses-details.html" class="text-color-secondary" title="">
+                                    <a href="/courses-details" class="text-color-secondary" title="">
                                         <img class="card-img-top border-radius-0"
                                             src="img/demos/education/courses/course-1.jpg" alt="" />
                                     </a>
@@ -294,7 +294,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
-                                    <h4 class="mb-3 text-color-secondary"><a href="courses-details.html"
+                                    <h4 class="mb-3 text-color-secondary"><a href="/courses-details"
                                             class="text-color-secondary" title="">Course Name Example</a></h4>
 
                                     <div class="float-end">

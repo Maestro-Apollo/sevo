@@ -18,6 +18,10 @@ class TemplateController extends Controller
     {
         return view('FrontEnd.courses');
     }
+    public function courses_details()
+    {
+        return view('FrontEnd.courses-details');
+    }
     public function instructors()
     {
         return view('FrontEnd.instructors');
@@ -30,5 +34,6 @@ class TemplateController extends Controller
     {
         return view('FrontEnd.login');
     }
+
     //
 }
